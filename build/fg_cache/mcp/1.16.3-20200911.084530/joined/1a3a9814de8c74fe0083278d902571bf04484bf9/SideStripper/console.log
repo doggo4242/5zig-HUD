@@ -1,0 +1,8 @@
+JVM Args:    
+Run Args:    "--strip", "--input", "C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\AccessTransformer\output.jar", "--output", "C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\SideStripper\output.jar", "--data", "C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\SideStripper\string_data.sas"
+Classpath:   C:\Users\Varun\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mergetool\1.0.7\mergetool-1.0.7-fatjar.jar
+Working Dir: C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\SideStripper
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger
+Input:  C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\AccessTransformer\output.jar
+Output: C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\SideStripper\output.jar
+Data:   C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\SideStripper\string_data.sas

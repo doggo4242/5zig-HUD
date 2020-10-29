@@ -1,0 +1,5 @@
+JVM Args:    
+Run Args:    "--client", "C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\stripClient\output.jar", "--server", "C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\stripServer\output.jar", "--ann", "1.16.3", "--output", "C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\merge\output.jar", "--inject", "false"
+Classpath:   C:\Users\Varun\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mergetool\1.1.1\mergetool-1.1.1-fatjar.jar
+Working Dir: C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\merge
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger
