@@ -1,15 +1,15 @@
-Args: "--clean", "C:\Users\Varun\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\joined\1.16.3-20200911.084530\joined-1.16.3-20200911.084530-srg.jar", "--output", "C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0\forge-1.16.3-34.1.0-binpatched.jar", "--apply", "C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0\forge-1.16.3-34.1.0-binpatches.lzma"
+Args: "--clean", "C:\Users\Varun\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\joined\1.16.3-20200911.084530\joined-1.16.3-20200911.084530-srg.jar", "--output", "C:\Users\Varun\Downloads\5zig-HUD\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0\forge-1.16.3-34.1.0-binpatched.jar", "--apply", "C:\Users\Varun\Downloads\5zig-HUD\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0\forge-1.16.3-34.1.0-binpatches.lzma"
 Classpath: C:\Users\Varun\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\binarypatcher\1.0.12\binarypatcher-1.0.12-fatjar.jar
-WorkDir: C:\Users\Varun\Downloads\HUD5zig\build\_applyBinpatches_2
+WorkDir: C:\Users\Varun\Downloads\5zig-HUD\build\_applyBinpatches_2
 Main: net.minecraftforge.binarypatcher.ConsoleTool
 ====================================
 Applying: 
   Clean:     C:\Users\Varun\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\joined\1.16.3-20200911.084530\joined-1.16.3-20200911.084530-srg.jar
-  Output:    C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0\forge-1.16.3-34.1.0-binpatched.jar
+  Output:    C:\Users\Varun\Downloads\5zig-HUD\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0\forge-1.16.3-34.1.0-binpatched.jar
   KeepData:  false
   Unpatched: false
-  Patches:   C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0\forge-1.16.3-34.1.0-binpatches.lzma
-Loading patches file: C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0\forge-1.16.3-34.1.0-binpatches.lzma
+  Patches:   C:\Users\Varun\Downloads\5zig-HUD\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0\forge-1.16.3-34.1.0-binpatches.lzma
+Loading patches file: C:\Users\Varun\Downloads\5zig-HUD\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0\forge-1.16.3-34.1.0-binpatches.lzma
   Reading patch com.mojang.blaze3d.platform.GlStateManager$1.binpatch
     Checksum: 27fccb26 Exists: true
   Reading patch com.mojang.blaze3d.platform.GlStateManager$AlphaState.binpatch

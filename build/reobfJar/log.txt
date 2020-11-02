@@ -1,7 +1,7 @@
-Args: "--in-jar", "C:\Users\Varun\Downloads\HUD5zig\build\libs\modid-1.0.jar", "--out-jar", "C:\Users\Varun\Downloads\HUD5zig\build\reobfJar\output.jar", "--srg-in", "C:\Users\Varun\Downloads\HUD5zig\build\createMcpToSrg\output.tsrg", "--live"
+Args: "--in-jar", "C:\Users\Varun\Downloads\5zig-HUD\build\libs\modid-1.0.jar", "--out-jar", "C:\Users\Varun\Downloads\5zig-HUD\build\reobfJar\output.jar", "--srg-in", "C:\Users\Varun\Downloads\5zig-HUD\build\createMcpToSrg\output.tsrg", "--live"
 Classpath: C:\Users\Varun\.gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.8.3\SpecialSource-1.8.3-shaded.jar
-Classpath: C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0_mapped_snapshot_20201028-1.16.3\forge-1.16.3-34.1.0_mapped_snapshot_20201028-1.16.3-recomp.jar
-Classpath: C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0_mapped_snapshot_20201028-1.16.3\forge-1.16.3-34.1.0_mapped_snapshot_20201028-1.16.3-launcher.jar
+Classpath: C:\Users\Varun\Downloads\5zig-HUD\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0_mapped_snapshot_20201028-1.16.3\forge-1.16.3-34.1.0_mapped_snapshot_20201028-1.16.3.jar
+Classpath: C:\Users\Varun\Downloads\5zig-HUD\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0_mapped_snapshot_20201028-1.16.3\forge-1.16.3-34.1.0_mapped_snapshot_20201028-1.16.3-launcher.jar
 Classpath: C:\Users\Varun\.gradle\caches\forge_gradle\minecraft_repo\versions\1.16.3\client-extra.jar
 Classpath: C:\Users\Varun\.gradle\caches\modules-2\files-2.1\net.minecraftforge\accesstransformers\2.2.0\43c882f4e7e5648acb14c9de8c2eca5f670d2bd\accesstransformers-2.2.0-shadowed.jar
 Classpath: C:\Users\Varun\.gradle\caches\modules-2\files-2.1\net.minecraftforge\eventbus\3.0.3\e5dedecd71479bbb4984485553b6fcf36953ef00\eventbus-3.0.3-service.jar
@@ -74,7 +74,7 @@ Classpath: C:\Users\Varun\.gradle\caches\modules-2\files-2.1\net.java.jinput\jin
 Classpath: C:\Users\Varun\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput-platform\2.0.5\53f9c919f34d2ca9de8c51fc4e1e8282029a9232\jinput-platform-2.0.5-natives-osx.jar
 Classpath: C:\Users\Varun\.gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.2.1\13b015768e0d04849d2794e4c47eb02d01a0de32\plexus-utils-3.2.1.jar
 Classpath: C:\Users\Varun\.gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar
-WorkDir: C:\Users\Varun\Downloads\HUD5zig\build\reobfJar
+WorkDir: C:\Users\Varun\Downloads\5zig-HUD\build\reobfJar
 Main: net.md_5.specialsource.SpecialSource
 ====================================
 Loading mappings

@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
-Implementation-Title: HUD5zig
+Implementation-Title: 5zig-HUD
 Implementation-Version: 1.0
 Specification-Vendor: com.github.doggo4242.5zigHUD
 Specification-Title: 5zigHUD
-Implementation-Timestamp: 2020-10-29T17:56:55-0400
+Implementation-Timestamp: 2020-11-02T16:43:36-0500
 Specification-Version: 0.1
 Implementation-Vendor: Forge
 
