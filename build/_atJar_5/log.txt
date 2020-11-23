@@ -1,5 +1,5 @@
-Args: "--inJar", "C:\Users\Varun\Downloads\5zig-HUD\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0\forge-1.16.3-34.1.0-injected.jar", "--outJar", "C:\Users\Varun\Downloads\5zig-HUD\build\fg_cache\net\minecraftforge\forge\1.16.3-34.1.0_mapped_snapshot_20201028-1.16.3\forge-1.16.3-34.1.0_mapped_snapshot_20201028-1.16.3.jar", "--logFile", "accesstransform.log", "--atFile", "C:\Users\Varun\Downloads\5zig-HUD\src\main\resources\META-INF\accesstransformer.cfg", "--atFile", "C:\Users\Varun\Downloads\5zig-HUD\build\_atJar_5\parent_at.cfg"
-Classpath: C:\Users\Varun\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\1.0.5\accesstransformers-1.0.5-fatjar.jar
-WorkDir: C:\Users\Varun\Downloads\5zig-HUD\build\_atJar_5
+Args: "--inJar", "/media/varun/dev/Users/Varun/Downloads/5zig-HUD/build/fg_cache/net/minecraftforge/forge/1.16.4-35.1.0/forge-1.16.4-35.1.0-injected.jar", "--outJar", "/media/varun/dev/Users/Varun/Downloads/5zig-HUD/build/fg_cache/net/minecraftforge/forge/1.16.4-35.1.0_mapped_snapshot_20201028-1.16.3/forge-1.16.4-35.1.0_mapped_snapshot_20201028-1.16.3.jar", "--logFile", "accesstransform.log", "--atFile", "/media/varun/dev/Users/Varun/Downloads/5zig-HUD/src/main/resources/META-INF/accesstransformer.cfg", "--atFile", "/media/varun/dev/Users/Varun/Downloads/5zig-HUD/build/_atJar_5/parent_at.cfg"
+Classpath: /home/varun/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/1.0.5/accesstransformers-1.0.5-fatjar.jar
+WorkDir: /media/varun/dev/Users/Varun/Downloads/5zig-HUD/build/_atJar_5
 Main: net.minecraftforge.accesstransformer.TransformerProcessor
 ====================================
