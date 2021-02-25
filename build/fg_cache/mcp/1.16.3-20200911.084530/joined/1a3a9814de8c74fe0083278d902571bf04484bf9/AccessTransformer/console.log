@@ -1,5 +1,0 @@
-JVM Args:    
-Run Args:    "--inJar", "C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\mcinject\output.jar", "--outJar", "C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\AccessTransformer\output.jar", "--atFile", "C:\Users\Varun\Downloads\HUD5zig\src\main\resources\META-INF\accesstransformer.cfg", "--atFile", "C:\Users\Varun\AppData\Local\Temp\FG_ats_382807695497932320.cfg"
-Classpath:   C:\Users\Varun\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\1.0.5\accesstransformers-1.0.5-fatjar.jar
-Working Dir: C:\Users\Varun\Downloads\HUD5zig\build\fg_cache\mcp\1.16.3-20200911.084530\joined\1a3a9814de8c74fe0083278d902571bf04484bf9\AccessTransformer
-Main Class:  net.minecraftforge.accesstransformer.TransformerProcessor
